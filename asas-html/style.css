@@ -1,0 +1,32 @@
+body {font-family:  Garamond, serif
+    ;}
+    
+    .navbar {
+      width: 100%;
+      background-color: #d7e5eb71;
+      overflow: auto;
+    }
+    
+    .navbar a {
+      float: left;
+      padding: 12px;
+      color: black;
+      text-decoration: none;
+      font-size: 17px;
+    }
+    
+    .navbar a:hover {
+      background-color:;
+    }
+    
+    .active {
+      background-color:;
+    }
+    
+    @media screen and (max-width: 500px) {
+      .navbar a {
+        float: none;
+        display: block;
+      }
+    }
+    </body>
